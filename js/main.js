@@ -48,7 +48,7 @@
             }
         }
         else {
-            if($(input).val().trim() == '1')
+            if($(input).val().trim() == 'как приручить дракона' || $(input).val().trim() == 'Как приручить дракона')
             {
                 window.open("second.html");
                 return true;
