@@ -48,7 +48,7 @@
             }
         }
         else {
-            if($(input).val().trim() == 'как приручить дракона' || $(input).val().trim() == 'Как приручить дракона')
+            if($(input).val().trim() == 'чизкейк' || $(input).val().trim() == 'Чизкейк')
             {
                 window.open("second.html");
                 return true;
